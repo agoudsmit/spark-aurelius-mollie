@@ -14,15 +14,15 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^8.0",
         "ext-json": "*",
         "ext-zip": "*",
-        "erusev/parsedown": "~1.0",
-        "firebase/php-jwt": "~4.0|~5.0",
+        "erusev/parsedown": "^1.0",
+        "firebase/php-jwt": "*",
         "intervention/image": "^2.3",
-        "mollie/laravel-cashier-mollie": "^1.12",
+        "mollie/laravel-cashier-mollie": "*",
         "laravel/ui": "^3.0",
-        "mpociot/vat-calculator": "^2.4"
+        "driesvints/vat-calculator": "*"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
