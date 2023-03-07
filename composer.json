@@ -22,7 +22,7 @@
         "intervention/image": "^2.3",
         "mollie/laravel-cashier-mollie": "*",
         "laravel/ui": "^3.0",
-        "driesvints/vat-calculator": "*"
+        "mpociot/vat-calculator": "*"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
